@@ -1,5 +1,3 @@
-#is/zettel #in/personal 
-
 At first I was very confused: How can a culture that is so warm, inviting, talkative and ,.. at the same time be so indirect, even conflict-averse?
 
 (talk about conflicts)

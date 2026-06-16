@@ -1,0 +1,2 @@
+the polícia militar exists, is very present everywhere, and unfortunately not only employs military aesthetic (caps, ..) but also practices 
+(everything has aesthetics and politics) (carnival, demonstrations, räumung aufm campus, CSD)

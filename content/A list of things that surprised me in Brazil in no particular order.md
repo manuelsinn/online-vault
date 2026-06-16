@@ -21,7 +21,7 @@
 
 - all loud things in Brazil are 20% louder than loud things in Germany (research!)
 
-- the [[this|state of my kitchen]]
+- the [[this|state of my kitchen]] (inhabited by my [[collage of dog shit|non-human roomies]])
 
 - [[Tapioca magic]]
 

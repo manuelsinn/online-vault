@@ -1,0 +1,9 @@
+- usp community 
+- liveness on campus
+	- baterias
+	- DCE
+		- cafeteria
+		- boxing match
+		- jiujitsu
+		- violin class
+		- 
