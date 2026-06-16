@@ -1,0 +1,1 @@
+![[avocado.jpeg]]![[avocado-salad.jpeg]
