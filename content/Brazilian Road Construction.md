@@ -1,6 +1,6 @@
-![[construction-1.jpeg]]
+![[construction-1.jpeg|500]]
 
-![[construction-2.jpeg]]
+![[construction-2.jpeg|500]]
 
-![[construction-3.jpeg]]
+![[construction-3.jpeg|500]]
 

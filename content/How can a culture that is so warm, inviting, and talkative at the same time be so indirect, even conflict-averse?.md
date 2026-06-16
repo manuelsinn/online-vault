@@ -7,7 +7,7 @@ At first I was very confused: How can a culture that is so warm, inviting, talka
 To illustrate this, it's worth taking a look into [[how cultural characteristics become engrained and observable through language]].
 
 
-**It's complicated**
+## It's complicated
 
 Often when I talk with Brazilians about things that are outright shit - that make me angry, sad, annoyed or invoke any other unpleasant reaction - I yearn for someone to call it by its name. I thirst for people to express their discontent. What I hear instead in many cases is the phrase "tá complicado" (it's complicated). And it leaves me RAGING! Aren't some things simply unjust, depressing, and annoying? And I am not even talking about disagreements and multiperspectivity, of course there are different angles to issues. But even if someone agrees with me, they would say, well yeah... it's complicated.
 To be fair, more recently the expression is growing on me: I gained a feeling for its weight, which arguably even increases by the additional weight of not naming the cause for disliking something. As if both speakers share the knowledge of how severe something is, and even what the cause for it is, yet need not (cannot?) speak it out loud.
@@ -19,7 +19,7 @@ whats the reason? lazyness? fear of positioning bc of military dictatorship?
 
 
 
-**Do you accept sugar?**
+## Do you accept sugar?
 
 For example, I have been asked the question "aceita açucar?" (do you accept sugar?). What sounds a little strange at least and may be misunderstood as an inquiry about one's argumentative stance on the stimulating substance is, of course, just a simple offer that follows a serving of coffee.
 
@@ -32,7 +32,7 @@ you must take an uber - you should take an uber - it would be good to take an ub
 
 
 
-**Too much**
+## Too much
 
 Though there is a word for "too much" (demais), I hear people use other expressions much more.
 

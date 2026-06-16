@@ -1,1 +1,1 @@
-![[avocado.jpeg]]![[avocado-salad.jpeg]
+![[avocado.jpeg]]

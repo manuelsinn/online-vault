@@ -1,14 +1,12 @@
 It's rare to spot the iconic T2 Bulli in Germany and Europe, not least due to its highly priced collector's value. Here in São Paulo, I see one almost every day. 
 
-![[vw-1.jpeg]]
+![[vw-1.jpeg|400]]
 February 13, República
 
 
 
 Check out this cute and ridiculous [[Brazilian police|police]] edition:
-![[vw-pol-2.jpeg|600]]
-
-![[vw-pol-1.jpeg|600]]
+![[vw-pol-2.jpeg|400]] ![[vw-pol-1.jpeg|400]]
 
 
 Why?
