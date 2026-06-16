@@ -1,6 +1,10 @@
 ---
 title: Welcome
 ---
+
+[[Jeito Brasileiro, or a list of things that lend themselves to romantization]]
+
+
 ## What surprised me?
 
 - the amount of VW Bus and VW Käfer
