@@ -1,4 +1,3 @@
-- usp community 
 - liveness on campus
 	- baterias
 	- DCE
@@ -6,4 +5,3 @@
 		- boxing match
 		- jiujitsu
 		- violin class
-		- 

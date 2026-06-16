@@ -13,7 +13,7 @@
   
 - Paulistanos are even better at [[queueing]] than the Brits
 
-- how often I hear that [[My name is Brazilian|my name is Brazilian]] (and how people start to sing a [song](https://www.youtube.com/watch?v=Naxptnu2Qv8) when they hear it - and how there's basically a song to almost every name)
+- how often I hear that [[My name is Brazilian (apparently)|my name is Brazilian]] (and how people start to sing a [song](https://www.youtube.com/watch?v=Naxptnu2Qv8) when they hear it - and how there's basically a song to almost every name)
 
 - the unbelievable variety of animals and plants
 
@@ -21,11 +21,11 @@
 
 - all loud things in Brazil are 20% louder than loud things in Germany (research!)
 
-- the [[this|state of my kitchen]] (inhabited by my [[collage of dog shit|non-human roomies]])
+- the [[this|state of my kitchen]] (inhabited by my [[colagem de cocô|non-human roomies]])
 
 - [[Tapioca magic]]
 
-- the cold (now that it's June, temperatures drop below 10 °C, which doesn't exactly sound very cold but sure feels like it without proper heating or even *[[Open Architecture|doors]]* lol)
+- the cold (now that it's June, temperatures drop below 10 °C, which doesn't exactly sound very cold but sure feels like it without heating systems or even *[[Open Architecture|doors]]* lol)
 
 - [[German bureaucracy is a joke compared to its Brazilian counterpart]]
 

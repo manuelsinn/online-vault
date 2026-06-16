@@ -1,3 +1,207 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* --- Nicole-ish Quartz sidebar compact style --- */
+
+/* 1. Same background color for both sidebars */
+.left,
+.right,
+.sidebar,
+.sidebar-container {
+  background-color: var(--light);
+}
+
+/* If your Quartz theme gives sidebars a different inner background */
+.left > *,
+.right > *,
+.sidebar > * {
+  background-color: transparent;
+}
+
+/* 2. Smaller component headers: Explorer, Graph View, Table of Contents, etc. */
+h3,
+.section h3,
+.explorer h3,
+.graph h3,
+.toc h3,
+.backlinks h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* 3. Smaller note titles / links in the left Explorer sidebar */
+.explorer,
+.explorer ul,
+.explorer li,
+.explorer a,
+.explorer .folder-title,
+.explorer .folder-container,
+.explorer .folder-outer,
+.explorer .folder-button {
+  font-size: 0.9rem;
+}
+
+/* 4. Make sidebar text generally a bit calmer/smaller */
+.left,
+.right {
+  font-size: 0.86rem;
+}
+
+// /* 5. Optional: make spacing in Explorer more compact */
+// .explorer li {
+//   margin: 0.12rem 0;
+// }
+
+.explorer a {
+  line-height: 1.5;
+}
+
+/* 6. Optional: smaller Graph View labels/buttons */
+.graph,
+.graph button,
+.graph label {
+  font-size: 0.9rem;
+}
+
+
+/* --- Article page spacing: more air between breadcrumb and title --- */
+
+.breadcrumb-container {
+  margin-bottom: 2rem;
+}
+
+article h1,
+.page-title,
+.article-title {
+  margin-top: 0.8rem;
+}
+
+
+/* --- Left sidebar: remove inner overlay/card background --- */
+
+.explorer,
+.explorer-content,
+.explorer ul,
+.explorer li,
+.explorer .folder-outer,
+.explorer .folder-container,
+.explorer .folder-content,
+.explorer .folder-button,
+.explorer .folder-title,
+.explorer .folder-icon,
+.explorer .folder {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Remove the darker rounded rectangle around the whole Explorer list */
+.explorer-content,
+.explorer > ul,
+.explorer .overflow {
+  background: transparent !important;
+  border-radius: 0 !important;
+}
+
+
+/* --- Left sidebar: more spacing between article links --- */
+
+.explorer li {
+  margin: 0.2rem 0 !important;
+}
+
+.explorer a {
+  display: block;
+  line-height: 1.45;
+  padding-top: 0.12rem;
+  padding-bottom: 0.12rem;
+}
+
+// /* Folder titles like Articles / Snippets */
+// .explorer .folder-title,
+// .explorer .folder-button {
+//   margin: 0.38rem 0 !important;
+//   line-height: 1.35;
+// }
+
+
+/* --- Keep hover/active state subtle, not a big dark block --- */
+
+.explorer a:hover,
+.explorer .folder-button:hover {
+  background: transparent !important;
+  color: var(--secondary);
+}
+
+.explorer a.active,
+.explorer a[aria-current="page"] {
+  background: transparent !important;
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+
+/* --- Smaller search bar and nearby icons --- */
+
+.search {
+  max-width: 16rem;
+}
+
+.search > .search-button,
+.search button {
+  height: 2.4rem !important;
+  padding: 0.35rem 0.75rem !important;
+  font-size: 0.9rem !important;
+}
+
+.search svg {
+  width: 1.15rem !important;
+  height: 1.15rem !important;
+}
+
+.darkmode,
+.reader-mode,
+button.darkmode,
+button.reader-mode {
+  transform: scale(0.82);
+  transform-origin: center;
+}
+
+.left .darkmode,
+.left .reader-mode,
+.left button {
+  font-size: 0.9rem;
+}
+
+
+/* --- Main note links only: Obsidian-like underline, no yellow highlight --- */
+
+.center article a,
+.center .popover-hint a {
+  background: transparent !important;
+  color: var(--secondary) !important;
+  text-decoration-line: underline !important;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
+.center article a:hover,
+.center .popover-hint a:hover {
+  background: transparent !important;
+  color: var(--tertiary) !important;
+  text-decoration-thickness: 1.5px;
+}
+
+/* --- Sidebar/explorer links: no underline --- */
+
+.left a,
+.sidebar a,
+.explorer a,
+.explorer .folder-title,
+.explorer .folder-button {
+  text-decoration: none !important;
+}
+

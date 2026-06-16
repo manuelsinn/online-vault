@@ -1,5 +1,5 @@
-
-Introduction
+## Gems of civil engineering
+![[Brazilian Road Construction]]
 
 
 ## SHOWERS
@@ -15,16 +15,13 @@ To do the shower situation justice, the wildest part is not actually this ridicu
 
 
 
-## [[Brazilian Road Construction]]
-
-
-
 
 ## Moto Ubers
 
 What better feeling in the world than to sit on the back of a motorcycle and enjoy the beautiful scenery of tropical surroundings at low cost? Honking your way and cockily speeding past the cars stuck in traffic? Narrowly evading crashes through wobbly maneuvers that you didn't see coming? In the thin space between the cars that periodically *ceases to exist* when cars swap lanes? With a guy that you only know by name and rating? Through a tunnel? AT 90 KM/H? 
 
 Unfortunately, the liberty of such a time-saving adrenaline rush not one that the precarity of motoristas and other low-income Brazilians allows for. While I sometimes find Uber prices ridiculously cheap comparing them to German rides, I realize the skewedness of this privileged perspective. ([[Uber occupies a curious role in class relations|Why is Uber so cheap?]])
+
 
 
 

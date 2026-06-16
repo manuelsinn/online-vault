@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Manu in Brazil
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -49,6 +49,36 @@ plugins:
         - frontmatter
         - git
         - filesystem
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 2
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 3
+        removeTags: []
+        showTags: true
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: false
+        enableRadial: true
+    layout:
+      position: right
+      priority: 10
     order: 10
   - source: github:quartz-community/syntax-highlighting
     enabled: true
