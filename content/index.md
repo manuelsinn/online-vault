@@ -9,8 +9,5 @@ Roughly, this website follows the ideas of a [[Digital Gardens|digital garden]].
 
 To satisfy the aimless visitor's curiosity, these places might be good entry points for a promenade:
 - [[Things that surprised me in Brazil in no particular order]]
-- [[Sidequests taken on in Brazil]]
-
-Or, for the more structurally inclined: Cultural (and material) things I've noticed
 - [[How cultural characteristics become observable through language - Or, how can Brazil be both so extroverted and so conflict-averse at the same time?]]
 - [[Jeitinho Brasileiro, or a list of things that lend themselves to romantization]]
