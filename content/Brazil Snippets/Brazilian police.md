@@ -1,4 +1,4 @@
-![[content/assets/military.jpeg]]
+![[mp.jpeg]]
 
 The polícia militar exists, is very present everywhere, and unfortunately not only employs military aesthetics but also practices.
 
