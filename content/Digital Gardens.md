@@ -2,9 +2,11 @@ Digital gardens (also called [mind gardens](https://mister-chad.com/mind+gardens
 
 I first stumbled upon the concept from the angle of [Learning in Public](https://notes.nicolevanderhoeven.com/Learning+in+public), which seems kind of cool, but I'm still not completely sure what to think of it or if this thingy here will turn into that.
 
-Finally, I haven't yet strolled around many digital gardens, but if you want to do it before me, some of the following could be quite cool. And, if you find any beautiful ones, hit me up!!
+Finally, I haven't yet strolled around many other digital gardens–but if you want to do it before me, some of the following could be quite cool:
 - https://gwern.net/index
 - https://devonzuegel.com/tag/tools-for-thought
 - https://tomcritchlow.com/wiki/networked-writing/
 - https://emrah.ca/
 - https://lab.marconoris.com/Themarium/El+r%C3%ADo/I+Am+the+River%2C+the+River+Is+Me
+
+And, if you find any beautiful ones, hit me up!!
