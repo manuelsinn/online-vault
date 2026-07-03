@@ -1,3 +1,10 @@
-Like a lot of other human beings, I prefer sharing my experiences and opinions in person, adapting style and content to my recipient and leaning extensively on [[beautiful modalities of communication]] like tonality, mimics, and so on. But there's obviously a cap to how many people I can share interesting things with in this way. Making thoughts, ideas and experiences available in networked form exposes them to the world in a more open-ended fashion. For one, in exploring these fragments of thought on your own terms, you are granted a different quality of agency than the one you have in conversation.
+Digital gardens (also called [mind gardens](https://mister-chad.com/mind+gardens/!+mind+garden)) have been growing all around the web in a similar form to this one at least since the last pandemic, but of course [their roots](https://maggieappleton.com/garden-history) run much deeper. As Maggie Appleton has compiled, people have since come up with funky additions, for example the [Digital Gardening Terms of Service](https://swyx.io/digital-garden-tos) or a kind of signpost that [gives people an idea of how sure you are](https://devonzuegel.com/epistemic-statuses-are-lazy-and-that-is-a-good-thing) about the stuff you post (excuse me, plant).
 
-Doing a project like this may serve as an incentive to tend to one's knowledge and experiences in a loving way. To share them with the world and make use of the insane thing that is the internet, and enable reactions and interactions on themes that would otherwise just swirl back down to the unconscious. Who knows what interesting conversations, recommendations, resonances may sprawl up?
+I first stumbled upon the concept from the angle of [Learning in Public](https://notes.nicolevanderhoeven.com/Learning+in+public), which seems kind of cool, but I'm still not completely sure what to think of it or if this thingy here will turn into that.
+
+Finally, I haven't yet strolled around many digital gardens, but if you want to do it before me, some of the following could be quite cool. And, if you find any beautiful ones, hit me up!!
+- https://gwern.net/index
+- https://devonzuegel.com/tag/tools-for-thought
+- https://tomcritchlow.com/wiki/networked-writing/
+- https://emrah.ca/
+- https://lab.marconoris.com/Themarium/El+r%C3%ADo/I+Am+the+River%2C+the+River+Is+Me

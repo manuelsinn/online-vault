@@ -31,7 +31,7 @@
 
 - the cold (now that it's June, temperatures drop below 10 °C, which doesn't exactly sound very cold but sure feels like it without heating systems or even *[[Open Architecture|doors]]* lol)
 
-- [[German bureaucracy is a joke compared to its Brazilian counterpart]]
+- German bureaucracy is a joke compared to its Brazilian counterpart
 
-- [[How many workers there are per customer]]
+- How many workers there are per customer
 

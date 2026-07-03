@@ -1,0 +1,1 @@
+![[assets/stove.jpeg]]

@@ -1,0 +1,5 @@
+Like a lot of other human beings, I prefer sharing my experiences and opinions in person, adapting style and content to my recipient and leaning extensively on [[beautiful modalities of communication]] like tonality, mimics, and so on. But there's obviously a cap to how many people I can share interesting things with in this way. 
+
+Also, making thoughts, ideas and experiences available in networked form exposes them to the world in a more open-ended fashion. For one, in exploring these fragments of thought on your own terms, you are granted a different quality of agency than the one you have in conversation.
+
+Doing a project like this, for me at least, serves as an incentive to tend to one's knowledge and experiences in a loving way. To share them with the world and make use of the insane thing that is the internet, and enable reactions and interactions on themes that would otherwise just swirl back down to the unconscious. Who knows what interesting conversations, recommendations, resonances may sprawl up?

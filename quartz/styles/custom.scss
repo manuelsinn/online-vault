@@ -205,3 +205,84 @@ button.reader-mode {
   text-decoration: none !important;
 }
 
+/* --- Graph view: make lines between nodes more visible in default state --- */
+
+:root[saved-theme="dark"] {
+  --lightgray: #5f5a6e;
+}
+
+:root[saved-theme="light"] {
+  --lightgray: #b8b0c8;
+}
+
+
+/* --- Left side bar: remove Explorer drop down --- */
+
+.explorer > button.title-button.explorer-toggle.desktop-explorer {
+  display: none;
+}
+
+.explorer .explorer-content {
+  display: block !important;
+  max-height: none !important;
+  opacity: 1 !important;
+  overflow: visible !important;
+}
+
+
+/* --- Obsidian-like internal link colors --- */
+
+:root[saved-theme="dark"] {
+  --obsidian-link: #a78bfa;
+  --obsidian-link-hover: #c4b5fd;
+  --obsidian-unresolved-link: #7c6a9e;
+  --obsidian-unresolved-link-hover: #9b87c7;
+}
+
+/* Existing notes */
+a.internal:not(.broken) {
+  color: var(--obsidian-link) !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(167, 139, 250, 0.55) !important;
+  text-underline-offset: 0.14em;
+  font-weight: 400;
+}
+
+/* Notes that do not exist yet */
+a.internal.broken {
+  color: var(--obsidian-unresolved-link) !important;
+  opacity: 0.82;
+  text-decoration: underline;
+  text-decoration-color: rgba(124, 106, 158, 0.5) !important;
+  text-underline-offset: 0.14em;
+  font-weight: 400;
+}
+
+a.internal:not(.broken):hover {
+  color: var(--obsidian-link-hover) !important;
+  text-decoration-color: rgba(196, 181, 253, 0.75) !important;
+}
+
+a.internal.broken:hover {
+  color: var(--obsidian-unresolved-link-hover) !important;
+  opacity: 1;
+  text-decoration-color: rgba(155, 135, 199, 0.7) !important;
+}
+
+
+
+
+
+
+
+/* --- Right sidebar: make Graph View and Backlinks consistently aligned --- */
+
+/* The three section blocks */
+.sidebar.right .graph,
+.sidebar.right .toc,
+.sidebar.right .backlinks {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  margin-bottom: 2.4rem !important;
+}
+

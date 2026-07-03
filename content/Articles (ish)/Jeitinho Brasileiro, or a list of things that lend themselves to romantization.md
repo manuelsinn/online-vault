@@ -1,21 +1,22 @@
 
-*[Jeitinho](https://en.wikipedia.org/wiki/Jeitinho) brasileiro* – aka Brazilian resourcefulness in the face of failing formal systems – aka creatively navigating environments of precarity, corruption, scarcity, bureaucracy, social inequality, and other systemic obstacles.
+*[Jeitinho brasileiro](https://en.wikipedia.org/wiki/Jeitinho)* – aka Brazilian resourcefulness in the face of failing formal systems – aka creatively navigating environments of precarity, corruption, scarcity, bureaucracy, social inequality, and other systemic obstacles.
 
 
 
 ## Gems of Civil Engineering
+![[assets/hole.jpeg|500]]
 
-![[construction-1.jpeg|500]]
+![[assets/construction-1.jpeg|500]]
 
-![[construction-2.jpeg|500]]
+![[assets/construction-2.jpeg|500]]
 
-![[construction-3.jpeg|500]]
+![[assets/construction-3.jpeg|500]]
 
 
 
 ## SHOWERS
 
-![[shower.jpeg]]
+![[assets/shower.jpeg]]
 
 Having arrived in summer, I thought that my shower missing any option to regulate temperature is not a big deal (I'm famously terrible at imagining that temperatures change over time). Thankfully, before winter arrived, someone pointed out to me that there *is* actually a regulator, which switches between inverno (winter, hot water) and verão (summer, no heating). Coming from any German shower that is already wild to me, but what REALLY did it for me is that you CAN actually regulate the temperature: You want warmer water? Turn down the water jet. Cooler water? Turn up the pressure! 🤯
 
@@ -36,5 +37,11 @@ What better feeling in the world than to sit on the back of a motorcycle and enj
 
 
 
+## Following traffic and the world cup at the same time
+
+![[assets/uber-jogo.jpeg|500]]
+![[assets/uber-jogo-2.jpeg|500]]
 
 
+# Security
+![[lock.jpeg]]
