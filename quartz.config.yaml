@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: manuelsinn.github.io/online-vault
+  baseUrl: manuelsinn.github.io/see-also
   ignorePatterns:
     - private
     - templates
