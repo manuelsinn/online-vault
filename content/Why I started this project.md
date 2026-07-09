@@ -3,3 +3,7 @@ Like a lot of other human beings, I prefer sharing my experiences and opinions i
 Also, making thoughts, ideas and experiences available in networked form exposes them to the world in a more open-ended fashion. For one, in exploring these fragments of thought on your own terms, you are granted a different quality of agency than the one you have in conversation.
 
 Doing a project like this, for me at least, serves as an incentive to tend to one's knowledge and experiences in a loving way. To share them with the world and make use of the insane thing that is the internet, and enable reactions and interactions on themes that would otherwise just swirl back down to the unconscious. Who knows what interesting conversations, recommendations, resonances may sprawl up?
+
+---
+
+Of course I am already overthinking this project heavily in countless ways and one of the more interesting ones is the question [[What is this format actually good at?]].

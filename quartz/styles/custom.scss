@@ -286,3 +286,105 @@ a.internal.broken:hover {
   margin-bottom: 2.4rem !important;
 }
 
+
+
+
+/* --- Left sidebar: fixed header/tools, scrollable explorer only --- */
+
+@media all and (min-width: 800px) {
+  aside.sidebar.left,
+  .sidebar.left {
+    position: sticky !important;
+    top: 0 !important;
+    height: 100vh !important;
+    max-height: 100vh !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+
+    overflow: hidden !important;
+    min-height: 0 !important;
+  }
+
+  /* Everything except the explorer stays fixed */
+  aside.sidebar.left > :not(.explorer),
+  .sidebar.left > :not(.explorer) {
+    flex: 0 0 auto !important;
+  }
+
+  /* Only the file list scrolls */
+  aside.sidebar.left .explorer,
+  .sidebar.left .explorer {
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    padding-bottom: 3rem !important;
+    overscroll-behavior: contain;
+  }
+
+  aside.sidebar.left .explorer-content,
+  .sidebar.left .explorer-content,
+  aside.sidebar.left .explorer-ul,
+  .sidebar.left .explorer-ul {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+}
+
+
+
+/* Subtler random-note / dice button */
+.sidebar.left a[aria-label*="random" i],
+.sidebar.left button[aria-label*="random" i],
+.sidebar.left .random-note,
+.sidebar.left .random-note-button {
+  opacity: 0.55 !important;
+  color: var(--gray) !important;
+  transform: scale(0.88);
+}
+
+.sidebar.left a[aria-label*="random" i] svg,
+.sidebar.left button[aria-label*="random" i] svg,
+.sidebar.left .random-note svg,
+.sidebar.left .random-note-button svg {
+  stroke-width: 1.6 !important;
+  stroke: currentColor !important;
+}
+
+.sidebar.left a[aria-label*="random" i]:hover,
+.sidebar.left button[aria-label*="random" i]:hover,
+.sidebar.left .random-note:hover,
+.sidebar.left .random-note-button:hover {
+  opacity: 0.85 !important;
+  color: var(--secondary) !important;
+}
+
+/* Random-note dice: align with other toolbar icons */
+.sidebar.left a[aria-label*="random" i],
+.sidebar.left button[aria-label*="random" i],
+.sidebar.left .random-note,
+.sidebar.left .random-note-button {
+  color: var(--gray) !important;
+  opacity: 0.78 !important;
+  transform: translateY(-2px) scale(0.9) !important;
+}
+
+/* Make the dice stroke a little bolder */
+.sidebar.left a[aria-label*="random" i] svg,
+.sidebar.left button[aria-label*="random" i] svg,
+.sidebar.left .random-note svg,
+.sidebar.left .random-note-button svg {
+  stroke: currentColor !important;
+  stroke-width: 2.05 !important;
+}
+
+/* Hover: same behavior as the other icons */
+.sidebar.left a[aria-label*="random" i]:hover,
+.sidebar.left button[aria-label*="random" i]:hover,
+.sidebar.left .random-note:hover,
+.sidebar.left .random-note-button:hover {
+  opacity: 1 !important;
+  color: var(--dark) !important;
+}
+

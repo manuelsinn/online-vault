@@ -42,3 +42,5 @@ Of course you can accuse Brazilians of not really caring how you're actually doi
 
 That being said, the expression "tá complicado" has actually been growing on me recently: I've developed more of a feeling for its weight, which some might argue might even increase through the additional burden of not naming the cause for disliking something. As if both interlocutors shared the knowledge of how severe something is, and perhaps even a similar conviction on what the cause for it is, yet need not (cannot?) speak it out loud. 
 
+
+Tags: #article-ish 

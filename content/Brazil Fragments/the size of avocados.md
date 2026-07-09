@@ -1,1 +1,0 @@
-![[assets/avocado.jpeg]]

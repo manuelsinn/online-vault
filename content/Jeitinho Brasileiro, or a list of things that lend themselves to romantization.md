@@ -1,4 +1,3 @@
-
 *[Jeitinho brasileiro](https://en.wikipedia.org/wiki/Jeitinho)* – aka Brazilian resourcefulness in the face of failing formal systems – aka creatively navigating environments of precarity, corruption, scarcity, bureaucracy, social inequality, and other systemic obstacles.
 
 
@@ -44,4 +43,6 @@ What better feeling in the world than to sit on the back of a motorcycle and enj
 
 
 # Security
-![[lock.jpeg]]
+![[assets/lock.jpeg]]
+
+Tags: #article-ish 

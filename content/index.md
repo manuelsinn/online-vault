@@ -12,3 +12,6 @@ To satisfy the aimless visitor's curiosity, these places might be good entry poi
 - [[How cultural characteristics become observable through language - Or, how can Brazil be both so extroverted and so conflict-averse at the same time?]]
 - [[Jeitinho Brasileiro, or a list of things that lend themselves to romantization]]
 - [[University is the village we all crave]]
+
+Otherwise, I recommend to explore the premises using the left sidebar (for those who thrive on chaos) or the right sidebar, where you can find fragments that link to the one you are currently looking at, as well as graphs! (We love graphs).
+Due to the networked nature of all that is growing here, I find it vital to avoid folders–they introduce untenable hierarchies. But we have [[tags]] (which are like folders but better)!

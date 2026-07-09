@@ -254,10 +254,7 @@ plugins:
       priority: 10
   - source: github:quartz-community/footer
     enabled: true
-    options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+    options: null
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -303,6 +300,16 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:UndefeatedOrca/quartz-random-note
+    enabled: true
+    options:
+      label: Open a random note
+      includeCurrentPage: false
+    order: 50
+    layout:
+      position: left
+      group: toolbar
+      priority: 55
 layout:
   groups:
     toolbar:

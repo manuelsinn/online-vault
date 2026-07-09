@@ -15,3 +15,5 @@ It provides an ecosystem so complete that a significant part of students hardly 
 This community of communities being the central anchor of life as an intercâmbista makes everything feel a lot more connected, easy, and just so rich. I’ve made [[Sidequests taken on in Brazil|good use of these opportunities]] and still there are so many things I want to try as well, from playing Go at the architecture faculty to developing my analog films in the visual arts department, e muito mais. 
 
 Anyway. I guess I’m not saying we all need to live in a commune. But maybe like a community of communities?
+
+Tags: #article-ish 

@@ -1,5 +1,0 @@
-![[assets/mp.jpeg]]
-
-The polícia militar exists, is very present everywhere, and unfortunately not only employs military aesthetics but also practices.
-
-For example, during the beautiful carnival celebrations they [shut down some festivities in residential neighborhoods with tear gas](https://www.metropoles.com/sao-paulo/gcm-bloco-bomba-spray-cassetete), sending a huge crowd of people running away with coughs and panic. The same happened in various moments at demonstrations of the student movement. When the students of the most renowned university of Latin America peacefully occupied the university rectorate for a couple of days, the militar police entered the campus at 4am and [brutally forced them out](https://www.instagram.com/p/DYKKONWDRYn/). And even at Pride, the crowd started coughing the characteristic crowd cough. 

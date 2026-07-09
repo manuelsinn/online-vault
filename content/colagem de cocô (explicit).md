@@ -6,3 +6,5 @@
 ![[assets/colagem-de-coco/close-up.jpeg]]
 ![[assets/colagem-de-coco/close-up-2.jpeg]]
 ![[assets/colagem-de-coco/shit-ter.jpeg]]
+
+Tags: #brazil 
