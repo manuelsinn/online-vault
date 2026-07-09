@@ -4,9 +4,9 @@ title: Welcome!
 <script>
   if (
     window.location.hostname.endsWith("github.io") &&
-    window.location.pathname === "/see-also/"
+    window.location.pathname === "/see-also/" || window.location.pathname === "/see-also"
   ) {
-    window.history.replaceState(null, "", "/see-also/index")
+    window.location.replace("/see-also/index")
   }
 </script>
 

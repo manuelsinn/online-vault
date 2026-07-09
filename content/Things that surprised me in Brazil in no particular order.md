@@ -19,7 +19,7 @@
 
 - [[How cultural characteristics become observable through language - Or, how can Brazil be both so extroverted and so conflict-averse at the same time?|Brazilian indirectness]]
 
-- [[Brazilian time]]
+- [[Brazilian time - Or, why Brazilians are always late?]]
 
 - the ever-present -inho diminutive, and how there are three variable suffixes to Portuguese words that [adapt their size & cuteness levels accordingly](https://www.instagram.com/p/DYQLWiapki5/) 🥹 
 
