@@ -95,6 +95,60 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+        (() => {
+          const HOME = "/see-also/"
+          const HOME_NO_SLASH = "/see-also"
+          const INDEX = "/see-also/index"
+
+          const normalizeHomeUrl = () => {
+            if (
+              window.location.hostname.endsWith("github.io") &&
+              (window.location.pathname === HOME || window.location.pathname === HOME_NO_SLASH)
+            ) {
+              window.history.replaceState(null, "", INDEX + window.location.search + window.location.hash)
+            }
+          }
+
+          normalizeHomeUrl()
+
+          document.addEventListener(
+            "click",
+            (event) => {
+              const link = event.target.closest?.("a")
+              if (!link) return
+
+              const url = new URL(link.href, window.location.href)
+
+              if (
+                url.origin === window.location.origin &&
+                (url.pathname === HOME || url.pathname === HOME_NO_SLASH)
+              ) {
+                event.preventDefault()
+                event.stopImmediatePropagation()
+
+                const target = INDEX + url.search + url.hash
+                const targetUrl = new URL(target, window.location.origin)
+
+                if (window.spaNavigate) {
+                  window.spaNavigate(targetUrl, false)
+                } else {
+                  window.location.assign(targetUrl)
+                }
+              }
+            },
+            true,
+          )
+
+          document.addEventListener("nav", normalizeHomeUrl)
+          document.addEventListener("render", normalizeHomeUrl)
+        })()
+        `,
+          }}
+        />
+
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
@@ -106,6 +160,8 @@ export default (() => {
             return resource
           }
         })}
+
+
       </head>
     )
   }
