@@ -67,7 +67,7 @@ So, a bunch of absurd things happen during tapiocarization.
 There is a powder that I put into my pan, which is both dry and wet at the same time. 
 When my stove provides heat, this dry-wet powder melts into an imperceptible sauce. 
 At the same time as this sauce is forming in front of me, it is already turning into a solid again.
-Basically, me, my pan and my tapioca powder form a forbidden alchemist.
+Basically, the art of tapiocarization is forbidden alchemy.
 
 When I first encountered tapiocas, just because of these weirdnesses, I had to think of non-newtonian fluids: the kinds of fluid that don't behave like they are supposed to. Where water always behaves like water–for example, flowing faster as you push it harder–this atypical category of fluids *changes* its viscosity, only flowing under slow movement and stiffening under pressure. As it happens, tapiocas kind of ARE the intersection of non-newtonian fluids and, well, pancakes! After all, the most famous non-newtonian fluid ([oobleck](https://www.youtube.com/shorts/mtr1s3z724o)) is a starch-water mix, which is exactly what a tapioca is.
 
