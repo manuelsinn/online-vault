@@ -3,15 +3,6 @@ title: Welcome!
 created: 2026-06-20
 modified: 2026-07-09
 ---
-<script>
-  if (
-    window.location.hostname.endsWith("github.io") &&
-    window.location.pathname === "/see-also/" || window.location.pathname === "/see-also"
-  ) {
-    window.location.replace("/see-also/index")
-  }
-</script>
-
 *Epaa bom dia! Tudo bem?*
 
 I have decided to finally write up and share some of the things I have encountered in this wonderful country over the course of the last months living in São Paulo, Brazil. A life abroad is a messy collage of impressions and learnings and feelings, so [[Why I started this project|what better way to share them than through inter-linked fragments]]? 
