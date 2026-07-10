@@ -1,3 +1,10 @@
+---
+created: 2026-07-06
+modified: 2026-07-09
+tags:
+  - brazil
+  - article-ish
+---
 Brazil is the extrovert's paradise. I've had people approach me in all kinds of situations. At parties, on the street, in the supermarket, in museums. I've even had strangers at the bus station ask me where I was going, giving me advice on routes, and paying for my bus ticket. Multiple times. So, naturally, in the case of a conflict, I expected people to come up to me in their outgoing manner, be super friendly and then casually and openly talk about the problem at hand.
 
 However, something like this never happened. I've hardly ever witnessed direct conflict here (except maybe with the [[Brazilian police|police]]) and open confrontation seems like it's just not a thing. For example, whenever I encountered some issue at home (say, flatmates who left the common areas unusable, [[it has rained from the ceiling|rooms that fell short of their marketed promises]], or a [[colagem de cocô (explicit)|doggo doing his business where I wanted to cook]]), I never heard any of my flatmates lose a single critical word about the situation. This left me a bit confused: How can a culture that is so outgoing, warm, talkative and inviting, at the same time be so indirect, even conflict-averse?
@@ -43,4 +50,4 @@ Of course you can accuse Brazilians of not really caring how you're actually doi
 That being said, the expression "tá complicado" has actually been growing on me recently: I've developed more of a feeling for its weight, which some might argue might even increase through the additional burden of not naming the cause for disliking something. As if both interlocutors shared the knowledge of how severe something is, and perhaps even a similar conviction on what the cause for it is, yet need not (cannot?) speak it out loud. 
 
 
-Tags: #article-ish 
+Tags: #brazil #article-ish 

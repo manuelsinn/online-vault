@@ -1,6 +1,12 @@
+---
+created: 2026-06-23
+modified: 2026-07-05
+tags:
+  - article-ish
+  - brazil
+---
+
 *[Jeitinho brasileiro](https://en.wikipedia.org/wiki/Jeitinho)* – aka Brazilian resourcefulness in the face of failing formal systems – aka creatively navigating environments of precarity, corruption, scarcity, bureaucracy, social inequality, and other systemic obstacles.
-
-
 
 ## Gems of Civil Engineering
 ![[assets/hole.jpeg|500]]
@@ -44,5 +50,3 @@ What better feeling in the world than to sit on the back of a motorcycle and enj
 
 # Security
 ![[assets/lock.jpeg]]
-
-Tags: #article-ish 

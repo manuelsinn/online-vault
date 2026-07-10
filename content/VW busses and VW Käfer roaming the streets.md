@@ -1,3 +1,8 @@
+---
+created: 2026-06-24
+tags:
+  - brazil
+---
 It's rare to spot the iconic T2 Bulli in Germany and Europe, not least due to its highly priced collector's value. Here in São Paulo, I see one almost every day. 
 
 ![[assets/vw-1.jpeg|400]]

@@ -1,4 +1,10 @@
-
+---
+created: 2026-06-25
+modified: 2026-07-07
+tags:
+  - article-ish
+  - brazil
+---
 - the amount of [[VW busses and VW Käfer roaming the streets]]
 
 - [[the size of avocados]]
@@ -19,7 +25,7 @@
 
 - [[How cultural characteristics become observable through language - Or, how can Brazil be both so extroverted and so conflict-averse at the same time?|Brazilian indirectness]]
 
-- [[Brazilian time - Or, why Brazilians are always late?]]
+- the architecture behind [[Why Brazilians are always late|Brazilians always being late]]
 
 - the ever-present -inho diminutive, and how there are three variable suffixes to Portuguese words that [adapt their size & cuteness levels accordingly](https://www.instagram.com/p/DYQLWiapki5/) 🥹 
 
@@ -34,6 +40,3 @@
 - German bureaucracy is a joke compared to its Brazilian counterpart
 
 - How many workers there are per customer
-
-
-Tags: #brazil 

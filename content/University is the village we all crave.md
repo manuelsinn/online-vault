@@ -1,3 +1,9 @@
+---
+created: 2026-07-05
+tags:
+  - brazil
+  - article-ish
+---
 The University of São Paulo (USP) is a village. And a city. But mostly a village. And that's amazing.
 
 The campus is separated from the rest of the city by a fence and guarded *portarias*, which together encircle what is literally called *Cidade Universitária*. Within this *university city*, there is pretty much anything you need: Bakeries, restaurants, laundry mats, libraries, gyms, music rooms, and a huge sports complex that houses even an Olympic swimming pool. (With a whole diving tower.) It’s so big that there exist *five different bus lines* connecting the different corners of the campus. 
@@ -15,5 +21,3 @@ It provides an ecosystem so complete that a significant part of students hardly 
 This community of communities being the central anchor of life as an intercâmbista makes everything feel a lot more connected, easy, and just so rich. I’ve made [[Sidequests taken on in Brazil|good use of these opportunities]] and still there are so many things I want to try as well, from playing Go at the architecture faculty to developing my analog films in the visual arts department, e muito mais. 
 
 Anyway. I guess I’m not saying we all need to live in a commune. But maybe like a community of communities?
-
-Tags: #article-ish 

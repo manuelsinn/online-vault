@@ -44,11 +44,11 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
-        - git
         - filesystem
+        - git
       localGraph:
         drag: true
         zoom: true
@@ -278,7 +278,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

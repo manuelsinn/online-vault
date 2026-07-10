@@ -1,3 +1,8 @@
+---
+created: 2026-06-24
+modified: 2026-07-01
+tags:
+---
 Digital gardens (also called [mind gardens](https://mister-chad.com/mind+gardens/!+mind+garden)) have been growing all around the web in a similar form to this one at least since the last pandemic, but of course [their roots](https://maggieappleton.com/garden-history) run much deeper. As Maggie Appleton has compiled, people have since come up with funky additions, for example the [Digital Gardening Terms of Service](https://swyx.io/digital-garden-tos) or a kind of signpost that [gives people an idea of how sure you are](https://devonzuegel.com/epistemic-statuses-are-lazy-and-that-is-a-good-thing) about the stuff you post (excuse me, plant).
 
 I first stumbled upon the concept from the angle of [Learning in Public](https://notes.nicolevanderhoeven.com/Learning+in+public), which seems kind of cool, but I'm still not completely sure what to think of it or if this thingy here will turn into that.
