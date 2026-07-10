@@ -10,5 +10,3 @@ tags:
 - Asalatos
 - Urban Sketching
 - Forró
-
-Tags: #brazil 

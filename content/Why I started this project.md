@@ -2,7 +2,7 @@
 created: 2026-06-23
 ---
 
-Like a lot of other human beings, I prefer sharing my experiences and opinions in person, adapting style and content to my recipient and leaning extensively on [[beautiful modalities of communication]] like tonality, mimics, and so on. But there's obviously a cap to how many people I can share interesting things with in this way. 
+Like a lot of other human beings, I prefer sharing my experiences and opinions in person, adapting style and content to my recipient and leaning extensively on [[Beautiful modalities of communication|beautiful modalities of communication]] like tonality, mimics, and so on. But there's obviously a cap to how many people I can share interesting things with in this way. 
 
 Also, making thoughts, ideas and experiences available in networked form exposes them to the world in a more open-ended fashion. For one, in exploring these fragments of thought on your own terms, you are granted a different quality of agency than the one you have in conversation.
 
@@ -10,4 +10,4 @@ Doing a project like this, for me at least, serves as an incentive to tend to on
 
 ---
 
-Of course I am already overthinking this project heavily in countless ways and one of the more interesting ones is the question [[What is this format actually good at?]].
+Of course I am already overthinking this project heavily in countless ways and one of the more interesting ones is the question [[What is this format actually good at?]]

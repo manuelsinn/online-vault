@@ -4,8 +4,6 @@ modified: 2026-06-28
 tags:
   - brazil
 ---
-
-
 People keep saying this to me so I googled:
 
 "Manuel" is actually the Spanish/Portuguese adaptation of the Greek adapation Μανουήλ of the Hebrew name עִמָּנוּאֵל‎ (Immanuel), which means "God is with us". The Hebrew original was adapted to Greek in the Byzantine Empire because they spoke Greek, were Christian and liked (Hebrew) biblical names. 

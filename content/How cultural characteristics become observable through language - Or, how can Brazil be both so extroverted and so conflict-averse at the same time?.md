@@ -48,6 +48,3 @@ Importantly, the tendency towards friendly conversationalism might not actually 
 Of course you can accuse Brazilians of not really caring how you're actually doing when they whip out a casual *tudo bem* (not unlike Americans, with their disingenuous *how are you*). But in a way, that would just be misinterpreting the function of that little piece of communication, taking it a bit too seriously, too much at face value. Obviously, changing your mind about it is a little easier than changing your affective reaction to it. But isn't that a nice reminder of how much we're all stuck in our own respective culturalization. 
 
 That being said, the expression "tá complicado" has actually been growing on me recently: I've developed more of a feeling for its weight, which some might argue might even increase through the additional burden of not naming the cause for disliking something. As if both interlocutors shared the knowledge of how severe something is, and perhaps even a similar conviction on what the cause for it is, yet need not (cannot?) speak it out loud. 
-
-
-Tags: #brazil #article-ish 
