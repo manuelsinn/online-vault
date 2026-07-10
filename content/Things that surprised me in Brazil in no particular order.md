@@ -31,9 +31,11 @@ tags:
 
 - all loud things in Brazil are 20% louder than loud things in Germany (I swear)
 
+- everyone has tattoos
+
 - the [[this|state of my kitchen]] (co-inhabited by my [[colagem de cocô (explicit)|non-human roomies]])
 
-- [[Tapioca magic]]
+- [[Tapioca magic]]!!
 
 - the cold (now that it's June, temperatures drop below 10 °C, which doesn't exactly sound very cold but sure feels like it without heating systems or even *[[Open Architecture|doors]]* lol)
 

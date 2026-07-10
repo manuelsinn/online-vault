@@ -73,7 +73,7 @@ plugins:
         fontSize: 0.6
         opacityScale: 1
         removeTags: []
-        showTags: true
+        showTags: false
         focusOnHover: false
         enableRadial: true
     layout:
